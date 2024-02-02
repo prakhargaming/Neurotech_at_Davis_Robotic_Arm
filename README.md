@@ -1,1 +1,2 @@
-# Neurotech_at_Davis_Robotic_Arm
+# Neurotech@Davis Robotic Arm Project
+## Developers
